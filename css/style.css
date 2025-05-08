@@ -28,7 +28,7 @@ html {
 }
 
 body {
-    font-family: 'Pixelify Sans', system-ui, sans-serif;
+    font-family: 'Pixelify Sans', monospace, sans-serif;
     color: var(--off-white);
     background-color: var(--blue-dark);
     background-image: url('../img/pixel-stars.png');
@@ -48,7 +48,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Pixelify Sans', system-ui, sans-serif;
+    font-family: 'Pixelify Sans', monospace, sans-serif;
     color: var(--gold);
 }
 
@@ -98,7 +98,7 @@ nav ul li {
 }
 
 nav ul li a {
-    font-family: 'Pixelify Sans', system-ui, sans-serif;
+    font-family: 'Pixelify Sans', monospace, sans-serif;
     font-size: 1rem;
     position: relative;
 }
@@ -387,7 +387,7 @@ section {
     color: var(--off-white);
     text-align: center;
     border-radius: 3px;
-    font-family: 'Pixelify Sans', system-ui, sans-serif;
+    font-family: 'Pixelify Sans', monospace, sans-serif;
     transition: background-color 0.3s ease;
 }
 
@@ -443,7 +443,7 @@ section {
 }
 
 .social-link span {
-    font-family: 'Pixelify Sans', system-ui, sans-serif;
+    font-family: 'Pixelify Sans', monospace, sans-serif;
     color: var(--off-white);
 }
 
